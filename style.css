@@ -45,7 +45,9 @@
 
 #edito
 {
-	clear: left;
+	color: #ffff;
+    font-family: Montserrat;
+    clear: left;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
